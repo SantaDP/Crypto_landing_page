@@ -8,9 +8,7 @@ a {
 :root {
   --main-font-family: 'Nunito', sans-serif;
 }
-body {
-  
-}
+
 .header__wraper {
   min-height: 1400px;
   background: url(../img/header_bg.png) no-repeat;
