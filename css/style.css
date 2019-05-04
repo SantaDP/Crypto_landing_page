@@ -12,7 +12,7 @@ body {
   background-color: #E5E5E5;
 }
 .header__wraper {
-   height: 1400px;
+  min-height: 1400px;
   background: url(../img/header_bg.png) no-repeat;
   background-size: cover;
   background-position-y: -100px;
