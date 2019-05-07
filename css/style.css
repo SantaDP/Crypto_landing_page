@@ -194,7 +194,6 @@ a {
 
 
 .our-products__description__btn, .graphical__description__btn, .crypto-wallets__description__btn {
-  display: block;
   position: relative;
   margin-top: 102px;
   margin-left: 60px;
@@ -315,7 +314,7 @@ background: url("data:image/svg+xml,%3Csvg width='19' height='20' viewBox='0 0 1
   font-weight: normal;
   font-size: 18px;
   line-height: 29px;
-
+  margin-bottom: 34px;
   color: #282D32;
 }
 .crypto-wallets__description__btn {
